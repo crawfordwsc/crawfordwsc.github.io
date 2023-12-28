@@ -113,7 +113,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wayne-crawford-26077926/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -126,6 +126,6 @@ highlight_name: true
 ---
 
 Hi, I'm Wayne, welcome to my personal website. 
-<br>
-I'm a senior research scientist at Amazon, doing research on employee safety in the People eXperience and Technology Central Science (PXTCS) group. I completed my Ph.D. from the University of Alabama in the area of Organizational Behavior. As an academic, my primary research interests revolved around the work-life interface, leadership, employee identity, HR practices, and people analytics. I'm a research scientist doing research on safety at Amazon. Prior to joining Amazon, I spent about 5 years on the faculty in the Department of Management at the University of Texas at Arlington, and 2 years on faculty at New Mexico State University. Prior to joining academia, I worked in a variety of roles, including management, in the service industry.
+<br><br>
+I'm a senior research scientist at Amazon, doing research on employee safety in the People eXperience and Technology Central Science (PXTCS) group. I completed my Ph.D. from the <a href=https://www.ua.edu/ target=_blank rel=noopener>University of Alabama</a> in the area of Organizational Behavior. As an academic, my primary research interests revolved around the work-life interface, leadership, employee identity, HR practices, and people analytics. I'm a research scientist doing research on safety at Amazon. Prior to joining Amazon, I spent about 5 years on the faculty in the Department of Management at the University of Texas at Arlington, and 2 years on faculty at New Mexico State University. Prior to joining academia, I worked in a variety of roles, including management, in the service industry.
 {style="text-align: justify;"}
