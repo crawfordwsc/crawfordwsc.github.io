@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Wayne Crawford
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wayne
+last_name: Crawford
 
 # Status emoji
 status:
@@ -17,45 +17,45 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Amazon
+    url: https://www.amazon.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like doing data science in \#rstats and optimizing/automating workflows.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - R
+  - Data Science
+  - Movies, Sports, Family
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Organizational Behavior
+      institution: University of Alabama
+      year: 2015
+    - course: Master's of Business Administration (MBA)
+      institution: Southeastern Louisiana University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor's of Arts, Business Administration
+      institution: Southeastern Louisiana University
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
@@ -63,16 +63,21 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
+      - name: Python
+        description: ''
+        percent: 20
+        icon: python
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Family
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -120,5 +125,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Wayne, welcome to my personal website. 
+<br>
+I'm a senior research scientist at Amazon, doing research on employee safety in the People eXperience and Technology Central Science (PXTCS) group. I completed my Ph.D. from the University of Alabama in the area of Organizational Behavior. As an academic, my primary research interests revolved around the work-life interface, leadership, employee identity, HR practices, and people analytics. I'm a research scientist doing research on safety at Amazon. Prior to joining Amazon, I spent about 5 years on the faculty in the Department of Management at the University of Texas at Arlington, and 2 years on faculty at New Mexico State University. Prior to joining academia, I worked in a variety of roles, including management, in the service industry.
 {style="text-align: justify;"}
