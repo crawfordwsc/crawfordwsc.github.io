@@ -40,3 +40,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.cv-centered {
+  text-align: center;
+}
+.cv-centered h1,
+.cv-centered h2,
+.cv-centered h3,
+.cv-centered h4,
+.cv-centered h5,
+.cv-centered h6 {
+  text-align: center;
+}
+.cv-centered ul,
+.cv-centered ol {
+  display: inline-block;
+  text-align: left;
+}
