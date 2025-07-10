@@ -14,11 +14,11 @@ redirect_from:
 <h2>Below you’ll find my industry resume and a longer-form academic CV</h2>
 
 <h3>Short Industry Resume</h3>
-<embed src="/files/wayne_crawford_resume.pdf" type="application/pdf" width="75%" height="600px" />
+<embed src="/files/wayne_crawford_resume.pdf" type="application/pdf" width="50%" height="600px" />
 
 <hr>
 
 <h3>Academic Vita</h3>
-<embed src="/files/wayne_crawford_vita_full.pdf" type="application/pdf" width="75%" height="900px" />
+<embed src="/files/wayne_crawford_vita_full.pdf" type="application/pdf" width="50%" height="900px" />
 
 </div>
