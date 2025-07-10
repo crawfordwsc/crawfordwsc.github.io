@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include sidebar.html %}
+
 <div class="cv-centered" style="text-align: center;">
 
 <h2>Below you’ll find my industry resume and a longer-form academic CV</h2>
