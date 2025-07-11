@@ -14,6 +14,11 @@ redirect_from:
   <div class="pdf-responsive">
     <embed src="/files/wayne_crawford_resume.pdf" type="application/pdf" width="100%" height="600px" />
   </div>
+  <p>
+    <a class="pdf-download-link" href="/files/wayne_crawford_resume.pdf" target="_blank" rel="noopener">
+      📄 View or Download Resume (PDF)
+    </a>
+  </p>
 </div>
 
 <hr>
@@ -23,4 +28,9 @@ redirect_from:
   <div class="pdf-responsive">
     <embed src="/files/wayne_crawford_vita_full.pdf" type="application/pdf" width="100%" height="900px" />
   </div>
+  <p>
+    <a class="pdf-download-link" href="/files/wayne_crawford_vita_full.pdf" target="_blank" rel="noopener">
+      📄 View or Download Academic Vita (PDF)
+    </a>
+  </p>
 </div>
