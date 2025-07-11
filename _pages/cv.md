@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<h2 style="text-align:center;">Below you’ll find my industry resume and a longer-form academic CV</h2>
+<h2 style="text-align:center;">Below you’ll find my industry resume and my full academic vita</h2>
 
 <div class="pdf-embed-block">
   <h3>Industry Resume</h3>
